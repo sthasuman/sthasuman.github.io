@@ -91,7 +91,7 @@ github:
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: https://stackoverflow.com/users/6550252/sthasuman
-   flairimageurl: 
+   flairimageurl: https://stackoverflow.com/users/flair/6550252.png
 
 #Mobile apps section is optional
 apps:
