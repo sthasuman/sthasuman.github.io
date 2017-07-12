@@ -62,7 +62,7 @@ education:
 
 #This section is optional (as is the image link below)
 coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   profileurl: https://www.coursera.org/
    courses:
     - title: Functional Programming Principles in Scala
       link: https://www.coursera.org/course/progfun
@@ -90,8 +90,8 @@ github:
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
+   profileurl: http://stackoverflow.com/
+   flairimageurl: http://stackoverflow.com/
 
 #Mobile apps section is optional
 apps:
