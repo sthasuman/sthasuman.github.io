@@ -90,8 +90,8 @@ github:
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: http://stackoverflow.com/
-   flairimageurl: http://stackoverflow.com/
+   profileurl: https://stackoverflow.com/users/6550252/sthasuman
+   flairimageurl: 
 
 #Mobile apps section is optional
 apps:
