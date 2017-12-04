@@ -24,7 +24,7 @@ skills:
  - PHP MVC
  - Python
  - Django
- - SQL
+ - MYSQL
  - AWS
  - LINUX
  - Cloud Computing
@@ -34,8 +34,8 @@ skills:
 
 #Work experience is required
 roles:
- - title: Web Developer / System Administrator
-   start: 2017
+ - title: Software Developer / System Administrator
+   start: 2016
    end: Ongoing
    employer: Himalayan Techies
    description: Himalayan Techies was established as an  for the development of software and web-based projects, and a rapidly growing company using innovative technologies to revolutionise and change the software landscape. Working in technologies including PHP and its MVC frameworks, CMS like wordpress, projects deployment using Cpanel and AWS, handling Linux servers.
